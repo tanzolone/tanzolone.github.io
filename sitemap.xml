@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://antoniotanzola.com/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/home/apps/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/post/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antoniotanzola.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
